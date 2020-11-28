@@ -171,6 +171,7 @@ round((sum(diag(tabelaClassificacaoTeste)) / sum(tabelaClassificacaoTeste)) * 10
 
 print(accuracy(tabelaKnn1))
 
+# R: Maior Acurácia foi o modelo knn k = 1
 
 
 
